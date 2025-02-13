@@ -1,5 +1,5 @@
 import Footer from "../components/Footer";
-import HeroPage from "../Components/HeroPage";
+import HeroPage from "../components/HeroPage";
 import About from "./About";
 import Contact from "./Contact";
 import Features from "./Features";
